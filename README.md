@@ -9,7 +9,7 @@
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/graphs/commit-activity)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Workplace-Portal?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Workplace-Portal?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated collection of SaaS products and open-source self-hosted solutions for enterprise intranets, employee experience platforms (EXP), communications hubs, and knowledge portals.**
@@ -62,7 +62,7 @@ Below is a curated breakdown of enterprise digital workplace platforms, employee
 
 Curated self-hosted digital workplace portals, community intranets, team collaboration engines, and enterprise knowledge hubs. Sorted in descending order by **GitHub Stargazers Count**.
 
-| 📦 Repository & Project | 🌟 GitHub Stars Badge | 💻 Tech Stack & License | 📝 Overview & Core Strengths |
+| 📦 Repository & Project | 🌟 GitHub_Stars_Badge | 💻 Tech Stack & License | 📝 Overview & Core Strengths |
 | :--- | :--- | :--- | :--- |
 | **[AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)** | [![Stars](https://img.shields.io/github/stars/AppFlowy-IO/AppFlowy?style=social&color=white)](https://github.com/AppFlowy-IO/AppFlowy/stargazers) | `Flutter` • `Rust` • `AGPL-3.0` | **Open-source Notion alternative for workspaces & knowledge bases.** Gives teams complete data sovereignty, native desktop/mobile apps, customizable Kanban, document wikis, and offline-first capabilities. |
 | **[AFFiNE](https://github.com/toeverything/AFFiNE)** | [![Stars](https://img.shields.io/github/stars/toeverything/AFFiNE?style=social&color=white)](https://github.com/toeverything/AFFiNE/stargazers) | `TypeScript` • `Rust` • `MIT` | **Next-generation multimodal digital workplace and knowledge portal.** Integrates planning, docs, mindmaps, and infinite whiteboard canvases into a single privacy-first collaborative hub. |
@@ -120,7 +120,7 @@ Contributions to expand this curated digital workplace directory are warmly welc
 2. **Create a branch** for your update (`git checkout -b feature/add-new-portal`).
 3. **Follow the formatting guidelines**:
    - For **SaaS platforms**, ensure the entry is added to the table with company scale metrics, specific starting prices, and explicit free tier or trial limitations.
-   - For **Open-Source projects**, provide the repo link, dynamic social star badge linking to `/stargazers`, stack, and license.
+   - For **Open-Source projects**, provide the repo link, dynamic social Stars_Badge linking to `/stargazers`, stack, and license.
 4. **Commit your modifications** with a descriptive commit message (`git commit -m "Add FooPortal to open-source table"`).
 5. **Submit a Pull Request** with a brief summary of the project's background and relevance.
 
@@ -148,7 +148,7 @@ If this repository has saved you time, helped you evaluate enterprise portals, o
 
 - **Community-Curated**: This list is independently maintained for technical evaluation and architectural benchmarking. Mention of products does not imply commercial endorsement.
 - **Regulatory Compliance**: Digital workplace portals process employee telemetry, internal corporate communications, and proprietary files. Implementations must comply with GDPR, HIPAA, SOC 2 Type II, and corporate information governance policies.
-- **Pricing & Star Counts**: SaaS pricing and GitHub stargazers are subject to change over time; refer to official vendor quotes and live GitHub repositories for the latest figures.
+- **Pricing & Stars_Counts**: SaaS pricing and GitHub stargazers are subject to change over time; refer to official vendor quotes and live GitHub repositories for the latest figures.
 
 ---
 

@@ -4,11 +4,13 @@
 
 # 🌐 Awesome Digital Workplace Portal 🚀
 
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/graphs/commit-activity)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Digital-Workplace-Portal?style=social)](https://github.com/ishandutta2007/Awesome-Digital-Workplace-Portal/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated collection of SaaS products and open-source self-hosted solutions for enterprise intranets, employee experience platforms (EXP), communications hubs, and knowledge portals.**
 
@@ -25,6 +27,8 @@
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [⚖️ Platform Comparison & Architecture Matrix](#️-platform-comparison--architecture-matrix)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📊 Star History](#-star-history)
 - [🛡️ Disclaimer & Data Governance](#️-disclaimer--data-governance)
 
 ---
@@ -119,6 +123,24 @@ Contributions to expand this curated digital workplace directory are warmly welc
    - For **Open-Source projects**, provide the repo link, dynamic social star badge linking to `/stargazers`, stack, and license.
 4. **Commit your modifications** with a descriptive commit message (`git commit -m "Add FooPortal to open-source table"`).
 5. **Submit a Pull Request** with a brief summary of the project's background and relevance.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using **Awesome Digital Workplace Portal**! 🌟
+
+If this repository has saved you time, helped you evaluate enterprise portals, or supported your open-source journey, please consider showing your support:
+- ⭐ **Star this repository** to help others discover it
+- 🍴 **Fork it** and contribute your favorite tools or insights
+- 📢 **Share it** with fellow developers, IT architects, and internal comms colleagues
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and open-source maintenance, visit the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta0007). Your generosity makes a huge difference!
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Digital-Workplace-Portal&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Digital-Workplace-Portal&type=date&legend=top-left)
 
 ---
 
